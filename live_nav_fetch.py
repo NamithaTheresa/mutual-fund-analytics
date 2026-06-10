@@ -1,3 +1,11 @@
+"""
+Mutual Fund Analytics Project
+
+Purpose:
+Fetch and process live NAV data.
+
+Author: Namitha Theresa VJ
+"""
 import requests
 import pandas as pd
 

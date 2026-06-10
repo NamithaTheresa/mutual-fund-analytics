@@ -1,3 +1,11 @@
+"""
+Mutual Fund Analytics Project
+
+Purpose:
+Ingest and process raw data files.
+
+Author: Namitha Theresa VJ
+"""
 import pandas as pd
 import os
 

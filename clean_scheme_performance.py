@@ -1,3 +1,11 @@
+"""
+Mutual Fund Analytics Project
+
+Purpose:
+Clean and process scheme performance data.
+
+Author: Namitha Theresa VJ
+"""
 import pandas as pd
 import numpy as np
 

@@ -1,3 +1,11 @@
+"""
+Mutual Fund Analytics Project
+
+Purpose:
+Load processed data into SQLite database.
+
+Author: Namitha Theresa VJ
+"""
 import pandas as pd
 from sqlalchemy import create_engine
 

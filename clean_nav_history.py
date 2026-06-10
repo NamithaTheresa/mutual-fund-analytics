@@ -1,3 +1,11 @@
+"""
+Mutual Fund Analytics Project
+
+Purpose:
+Clean and process NAV history data.
+
+Author: Namitha Theresa VJ
+"""
 import pandas as pd
 
 # Load data

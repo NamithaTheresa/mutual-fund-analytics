@@ -1,3 +1,11 @@
+"""
+Mutual Fund Analytics Project
+
+Purpose:
+Recommend mutual funds based on risk tolerance.
+
+Author: Namitha Theresa VJ
+"""
 import pandas as pd
 
 performance = pd.read_csv(

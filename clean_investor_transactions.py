@@ -1,3 +1,11 @@
+"""
+Mutual Fund Analytics Project
+
+Purpose:
+Clean and process investor transaction data.
+
+Author: Namitha Theresa VJ
+"""
 import pandas as pd
 
 # Load data
